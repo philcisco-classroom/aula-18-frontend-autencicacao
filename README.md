@@ -1,14 +1,3 @@
-# aula-18-frontend-autencicacao
-
-Libs:
-zod (para validação de formulário)
-
-$ npm i zod
-
-Mensagens de Erro:
-$ npm i sonner  
-
-
 # Aula-18-frontend-autenticacao
 
 Esse repositório é construído por cima do frontend presente na Aula-16-Frontend-Crud: [Repo-Aula-16]((https://github.com/philcisco-classroom/aula-16-nextjs-crud)).
