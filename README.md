@@ -23,8 +23,8 @@ Para o correto funcionamento do frontend precisamos instalar as seguintes biblio
 
 # Execução
 
- -$ npm i
- -$ npm run dev
+ - $ npm i
+ - $ npm run dev
 
 
 
