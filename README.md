@@ -21,7 +21,10 @@ Para o correto funcionamento do frontend precisamos instalar as seguintes biblio
 
 - NEXT_PUBLIC_API_URL="http://localhost:3001"
 
+# Execução
 
+ -$ npm i
+ -$ npm run dev
 
 
 
