@@ -10,8 +10,6 @@ export default async function Header(){
 
     const token = cookieStore.get('token');
 
-    console.log(token);
-  
     return(
         <header className='header'>
                 <nav>
